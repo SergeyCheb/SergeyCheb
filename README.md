@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Here I just try to introduce changes.
+![resize_817_438_true_crop_817_438_0_0_q90_44141_5869744a2f669851145d15dab](https://github.com/SergeyCheb/SergeyCheb/assets/94992725/ef56a48a-7c2b-4cb5-8ac0-74fb0e2e48cf)
