@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Simba_2](https://github.com/SergeyCheb/SergeyCheb/assets/94992725/46eb8aac-1b80-41cf-95a6-74c2ea03bbe5)
 
 <!--
 **SergeyCheb/SergeyCheb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
